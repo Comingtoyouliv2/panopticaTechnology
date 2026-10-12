@@ -1,15 +1,6 @@
 # Test list for tg_scrape.py
 
-# Official Telegram channels, written in different formats to test parsing.
-# These should succeed.
-# durov
-# @telegram
-# https://t.me/TelegramTips
-# t.me/BotNews
-# contest
+# Official Telegram channels, add the urls of the channels that we want to scrape here
 https://t.me/CumtaAlertsEnglishChannel
 
-# These should fail cleanly and show up in the "Failed" summary.
-# BotFather is a bot account, not a channel.
-BotFather
-panoptica_no_such_channel_987
+
